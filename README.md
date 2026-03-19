@@ -294,10 +294,10 @@ then created a 4-page interactive dashboard on top of the views.
 
 | Page | What's on it |
 |---|---|
-| 📈 Sales | Revenue KPIs, yearly trend chart, top products bar chart, filters |
-| 🏭 Inventory | Warehouse stock table, InStock vs LowStock split, inventory value |
-| 📦 Products | Category performance, product ranking, order status workflow |
-| 🗺️ Geographic | Customer city map, city-wise revenue, gender split |
+| 📈 Revenue | Revenue KPIs, yearly trend chart, top products bar chart, filters |
+| 🏭 Products |  Category performance, product ranking, order status workflow  |
+| 📦 Time Analysis | YoY Mom QoQ revenue calcution | |
+| 🗺️ Customers | Customer city map, city-wise revenue, gender split |
 
 **Features used in Power BI:**
 - 🔗 Relationships between all fact and dimension tables
