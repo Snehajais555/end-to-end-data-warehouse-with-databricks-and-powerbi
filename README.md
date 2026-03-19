@@ -112,7 +112,7 @@ and pipeline — organized the way a real data engineering team would structure 
 # 📁 Project Structure
 
 ```
-bharatmart-analytics/
+end-to-end-data-warehouse-with-databricks-and-powerbi/
 │
 ├── 📁 01-business-requirements/
 │   └── business-requirement.pdf          ← Full BRD with metrics and phases
@@ -406,11 +406,11 @@ FROM invt.vw_monthly_revenue;
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/Snehajais555/bharatmart-analytics.git
+git clone https://github.com/Snehajais555/end-to-end-data-warehouse-with-databricks-and-powerbi.git
 ```
 
 ```bash
-cd bharatmart-analytics
+cd end-to-end-data-warehouse-with-databricks-and-powerbi
 ```
 
 ---
