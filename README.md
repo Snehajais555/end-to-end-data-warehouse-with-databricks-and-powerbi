@@ -296,7 +296,7 @@ then created a 4-page interactive dashboard on top of the views.
 |---|---|
 | 📈 Revenue | Revenue KPIs, yearly trend chart, top products bar chart, filters |
 | 🏭 Products |  Category performance, product ranking, order status workflow  |
-| 📦 Time Analysis | YoY Mom QoQ revenue calcution | |
+| 📦 Time Analysis | YoY, MoM, QoQ revenue calculation | |
 | 🗺️ Customers | Customer city map, city-wise revenue, gender split |
 
 **Features used in Power BI:**
